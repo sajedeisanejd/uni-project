@@ -1,0 +1,5 @@
+a=int(input('zarib x2 ra vared konid:'))
+b=int(input('zarib x ra vared konid:'))
+c=int(input('meghdar c ra vared konid'))
+x=int(input('meghdar x ra vared konid'))
+print((a*(x**2))+(b*x)+c)
